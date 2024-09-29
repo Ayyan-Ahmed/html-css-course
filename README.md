@@ -15,26 +15,26 @@ A: Have you actually tried to fix the problem on your own? Have you compared you
 ### Q3: What VSCode theme are you using? What about extensions and settings?
 A: I use One Monokai in this course. Here is the complete VS Code setup for this course.
 
-###  Q4: Can I see the final version of the Coding Ninja project?
+### Q4: Can I see the final version of the Coding Ninja project?
 A: Sure! Here you can see the final version of the Coding Ninja project in the final files of the course
 
 ### Q5: Where can I find the coding challenge solutions?
 A: They are all in final files which you have downloaded.
 
-### Q7: Videos don't load, can you fix it?
+### Q6: Videos don't load, can you fix it?
 A: Unfortunately, there is nothing I can do about it. The course is hosted on Skillshare, and sometimes they have technical issues like this. Please just come back a bit later or contact their support team.
 
-### Q8: Videos are blurred / have low quality, can you fix it?
+### Q7: Videos are blurred / have low quality, can you fix it?
 A: Please open video settings and change the quality from 'Auto' to another value, for example 720p. If that doesn't help, please contact the Skillshare support team.
 
-###  Q9: I want to put these projects in my portfolio. Is that allowed?
+### Q8: I want to put these projects in my portfolio. Is that allowed?
 A: Absolutely! Just make sure you actually built them yourself by following the course, and that you understand what you did. What is not allowed is that you create your own course/videos/articles based on this course's content!
 
-### Q10: I love your courses and want to get updates on new courses. How?
+### Q9: I love your courses and want to get updates on new courses. How?
 A: First, you can Follow to my Skillshare Page. Plus, I make important announcements on Skillshare itself, so you should definitely follow me there 🔥
 
-### Q12: Can you add subtitles in my language?
+### Q10: Can you add subtitles in my language?
 A: No. I provide professional English captions, but Skillshare is responsible for subtitles in all other languages (automatic translations). So please contact the Skillshare support team to request your own language.
 
-### Q13: Do you accept pull requests?
+### Q11: Do you accept pull requests?
 A: No, for the simple reason that I want this repository to contain the exact same code that is shown in the videos. However, please feel free to add an issue if you found one.
