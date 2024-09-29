@@ -16,10 +16,10 @@ A: Have you actually tried to fix the problem on your own? Have you compared you
 A: I use One Monokai in this course. Here is the complete VS Code setup for this course.
 
 ###  Q4: Can I see the final version of the Coding Ninja project?
-A: Sure! Here you go: Coding Ninja.
+A: Sure! Here you can see the final version of the Coding Ninja project in the final files of the course
 
 ### Q5: Where can I find the coding challenge solutions?
-A: They are all on codepen, in this collection.
+A: They are all in final files which you have downloaded.
 
 ### Q7: Videos don't load, can you fix it?
 A: Unfortunately, there is nothing I can do about it. The course is hosted on Skillshare, and sometimes they have technical issues like this. Please just come back a bit later or contact their support team.
@@ -32,7 +32,6 @@ A: Absolutely! Just make sure you actually built them yourself by following the 
 
 ### Q10: I love your courses and want to get updates on new courses. How?
 A: First, you can Follow to my Skillshare Page. Plus, I make important announcements on Skillshare itself, so you should definitely follow me there 🔥
-
 
 ### Q12: Can you add subtitles in my language?
 A: No. I provide professional English captions, but Skillshare is responsible for subtitles in all other languages (automatic translations). So please contact the Skillshare support team to request your own language.
